@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBC72A1-5358-4DB4-B965-D81CB29A3BDF}|DAL\\DAL.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBC72A1-5358-4DB4-B965-D81CB29A3BDF}|DAL\\DAL.csproj|solutionrelative:dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungsinhvien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungsinhvien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\gui\\nguoidungsinhvien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungsinhvien\\formsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\ucsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\ucsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\ucsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\ucsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\formdanhsachsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\formdanhsachsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\formdanhsachsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\formdanhsachsinhvientk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\formtruongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\formtruongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|c:\\users\\admin\\documents\\hcmue\\nam3\\hocki2\\bmcsdl\\quanlydangkyhocphan_nhom5\\quanlydangkyhocphan\\gui\\nguoidungtruongkhoa\\formtruongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{228EEED1-C415-4F37-8F02-C53C820FE7B2}|GUI\\GUI.csproj|solutionrelative:gui\\nguoidungtruongkhoa\\formtruongkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\DAL\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\DAL\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\DatabaseHelper.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAwAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:19:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCSinhVienTK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs [Design]",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:57:00.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDanhSachSinhVienTK.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:56:50.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDanhSachSinhVienTK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs [Design]",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\FormDanhSachSinhVienTK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:56:47.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTruongKhoa.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwDYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:56:40.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormTruongKhoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs [Design]",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\FormTruongKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:56:33.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "RelativeToolTip": "GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:25:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCSinhVienTK.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "RelativeToolTip": "GUI\\NguoiDungTruongKhoa\\UCSinhVienTK.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:57:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\NguoiDungSinhVien\\FormSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\HCMUE\\Nam3\\Hocki2\\BMCSDL\\QUANLYDANGKYHOCPHAN_NHOM5\\QUANLYDANGKYHOCPHAN\\GUI\\NguoiDungSinhVien\\FormSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\NguoiDungSinhVien\\FormSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:25:17.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
